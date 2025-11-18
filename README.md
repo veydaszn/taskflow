@@ -1,2 +1,25 @@
-# taskflow
-A clean Object-Oriented Analysis &amp; Design (OOAD) project that lets users create tasks, assign priority, mark progress, and generate summaries.
+# 🏗️ TaskFlow — OOAD Task Manager (Java)
+A simple Object-Oriented Analysis & Design project applying core OO principles.
+
+
+## 🚀 Features
+- Task creation
+- Task progress tracking
+- Priority-based organization
+- Clean Java OOP
+
+
+## 🏗 How to Run
+1️⃣ Clone the repo
+  git clone https://github.com/veydaszn/taskflow
+  cd taskflow/src
+2️⃣ Compile
+  javac -d out $(find . -name "*.java")
+3️⃣ Run
+java -cp out Main
+
+📚 Requirements
+Java 8+
+
+🙌 Contributions
+Pull requests welcome!
